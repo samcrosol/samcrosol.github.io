@@ -3,9 +3,9 @@
 Samcro is a meme coin on Solana. We love all things from Sons Of Anarchy and decided to dedicate an entire project to it.
 Here is some information about our project.
 
-| Project | Info for SAMCRO |
+| Description | Info for SAMCRO |
 |-----:|---------------|
-|Project Name|Sons of Anarchy|
+|Project|Sons of Anarchy|
 |Ticker|SAMCRO|
 |Status|Renounced|
 |Supply|420 Million|
