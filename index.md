@@ -5,12 +5,12 @@ Here is some information about our project.
 
 | Project | Info for SAMCRO |
 |-----:|---------------|
-|     Project Name:|Sons of Anarchy|
-|     Ticker|SAMCRO|
-|     Status|Renounced|
-|     Supply|420 Million|
-|     Developers|5%|
-|     Project Chain|Solana|
+|Project Name|Sons of Anarchy|
+|Ticker|SAMCRO|
+|Status|Renounced|
+|Supply|420 Million|
+|Developers|5%|
+|Project Chain|Solana|
 
 Project Token Address: 5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG
 
