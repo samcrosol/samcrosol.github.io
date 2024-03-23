@@ -17,5 +17,3 @@ Project Token Address: 5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG
 ![Image of fast.ai logo](images/logo.png)
 
 ## Trade and buy on https://birdeye.so
-
-[Buy your Samcro Here]([https://www.fast.ai](https://birdeye.so/token/5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG?chain=solana&tab=recentTrades)https://birdeye.so/token/5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG?chain=solana&tab=recentTrades).
