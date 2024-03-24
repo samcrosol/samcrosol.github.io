@@ -20,4 +20,4 @@ Project Token Address: 5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG
 You can do a safety check on our project here.
 [here](https://rugcheck.xyz/tokens/5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG)
 
-Have a nice SAMCRO day!
+....Have a nice SAMCRO day....
