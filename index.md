@@ -18,6 +18,6 @@ Project Token Address: 5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG
 
 ## Trade and buy on https://birdeye.so
 You can do a safety check on our project here.
-https://rugcheck.xyz/tokens/5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG
+(https://rugcheck.xyz/tokens/5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG)
 
 Have a nice SAMCRO day!
