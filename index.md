@@ -16,7 +16,7 @@ Project Token Address: 5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG
 
 ![Image of fast.ai logo](images/logo.png)
 
-## Trade and buy on https://birdeye.so
+## Trade and buy on [here](https://birdeye.so/token/5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG?chain=solana)
 You can do a safety check on our project here.
 [here](https://rugcheck.xyz/tokens/5V5uWpRhjDedfzQnwNrVWNk3zbU3fHT5fJ6VRSpmdmNG)
 
